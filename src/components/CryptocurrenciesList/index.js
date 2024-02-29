@@ -69,6 +69,7 @@ class CryptocurrenciesList extends Component {
         )}
       </div>        
     )
+  }
 }
 
 export default CryptocurrenciesList,
